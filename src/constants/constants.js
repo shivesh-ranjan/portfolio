@@ -35,6 +35,24 @@ export const projects = [
     visit: 'https://github.com/shivesh-ranjan/maze',
     id: 3,
   },
+  {
+    title: 'Flutter Chat App',
+    description: "This project is written in dart and based on flutter. This app uses Chat Messaging and Activity Feeds APIs offered by getstream.io",
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFvOooIyVuiTxJ1SuadGqIyI4aDWa5HQG3Z4rsFMvn5Y5njAvkpVtSwAISsFR_iv1Dvc&usqp=CAU',
+    tags: ['Flutter', 'Stream', 'Dart'],
+    source: 'https://github.com/shivesh-ranjan/flutter-chat-app/tree/master',
+    visit: 'https://github.com/shivesh-ranjan/flutter-chat-app/tree/master',
+    id: 4,
+  },
+  {
+    title: 'Flutter Medical Pager App',
+    description: "This project is written in dart and based on flutter. This app uses Chat Messaging and Activity Feeds APIs offered by getstream.io",
+    image: 'https://theme.zdassets.com/theme_assets/9442057/efc3820e436f9150bc8cf34267fff4df052a1f9c.png',
+    tags: ['Flutter', 'Stream', 'Dart'],
+    source: 'https://github.com/shivesh-ranjan/medical-pager-mobile-app/tree/master',
+    visit: 'https://github.com/shivesh-ranjan/medical-pager-mobile-app/tree/master',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
