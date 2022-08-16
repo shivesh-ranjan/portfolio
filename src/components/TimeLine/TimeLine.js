@@ -46,9 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I am a first year B.Tech CSE AI&ML Student at MAIT, Delhi. I like to make Android applications and Discord Bots with least interest in Web Development.<br></br>
-      Besides making projects, I like to study about AI and Machine Learning with some basics of Data Analysis. I'm planning to learn about Blockchain Development and Devops in near future.<br></br>
-      My hobbies don't stop at tech stuff, I am a Bartitsu(MMA) Athlete too! In free time when I am not coding or working out, I usually read about Human Psychology specially the books written by Dr. Jordan Peterson!
+      I am a first year B.Tech CSE AI&ML Student at MAIT, Delhi. I have a keen interest in Deep Learning and I do Web Development with primary focus on Back-end.<br></br>
+      I'm planning to learn data warehousing concepts and would like to explore cloud technologies in future!<br></br>
+      Besides the nerd stuff, I like boxing and reading books of Dr. Jordan Peterson and retired Navy Seal Jocko Willink.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
