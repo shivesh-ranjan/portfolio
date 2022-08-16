@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MemeShare Android App',
-    description: "This project uses an API which delivers random memes from Reddit and allows user to share their favourite memes with family and friends.",
-      image: 'https://media4.giphy.com/media/YWf50NNii3r4k/200.gif',
-      tags: ['Android', 'Kotlin', 'Reddit', 'Android Studio'],
-    source: 'https://github.com/shivesh-ranjan/Meme-Share-App',
-    visit: 'https://github.com/shivesh-ranjan/Meme-Share-App',
+    title: 'Food Vision',
+    description: "This is a Multi Class Image Classification model with accuracy higher than the DeepFood Paper. This model can be exported and deployed to WebApps and Mobile Applications",
+      image: 'https://production-media.paperswithcode.com/datasets/samples2.jpeg',
+      tags: ['Deep Learning', 'Tensorflow', 'Python', 'Neural Networks'],
+    source: 'https://github.com/shivesh-ranjan/Food-Vision',
+    visit: 'https://github.com/shivesh-ranjan/Food-Vision',
     id: 0,
   },
   {

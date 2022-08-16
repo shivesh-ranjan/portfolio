@@ -10,10 +10,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Hi, I'm 𝙎𝙝𝙞𝙫𝙚𝙨𝙝👋 <br />
-          Android Developer & ML Enthusiast
+          Machine Learning & Web Developer
         </SectionTitle>
         <SectionText>
-        pursuing Computer Science Engineering with specialisation in AI&ML. I am skilled in Python, Kotlin and C/C++ and currently exploring new technologies. Checkout my profile on LinkedIn.
+        pursuing Computer Science Engineering with specialisation in AI&ML. I am skilled in Python, C and C++ and currently exploring Data Warehousing technologies. Checkout my profile on LinkedIn.
         </SectionText>
         <Button onClick={() => window.location='https://linkedin.com/in/shivesh-ranjan'}>LinkedIn</Button>
       </LeftSection>
