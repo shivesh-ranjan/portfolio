@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiAndroid, DiDatabase, DiFirebase, DiPython, DiReact, DiZend } from 'react-icons/di';
+import { DiAndroid, DiDatabase, DiDjango, DiFirebase, DiPython, DiReact, DiZend } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -8,42 +8,42 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the Android Development and AI world.
+      I've worked with a range of technologies in the Machine Learning and Web Development world.
     </SectionText>
     <List>
-      <ListItem>
-        <picture>
-          <DiAndroid size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>Android</ListTitle>
-          <ListParagraph>
-            Experiece with <br />
-            Android Studio
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
       <ListItem>
         <picture>
           <DiPython size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>AI with Python</ListTitle>
+          <ListTitle>AI & Deep Learning</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            AI Algorithms
+            Experiece with <br />
+            Tensorflow and Python
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiDatabase size="3rem" />
+          <DiDjango size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Data Analysis</ListTitle>
+          <ListTitle>Web Development</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Numpy, Matplotlib, etc.
+            Full Stack <br />
+            HTML, CSS, Django and JS
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiAndroid size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Mobile Applications</ListTitle>
+          <ListParagraph>
+            Front End Experience with <br />
+            Android Studio and Flutter
           </ListParagraph>
         </ListContainer>
       </ListItem>
