@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'E-Commerce WebApp Coming Soon',
-    description: "To be completed by 18th August, 2022. This will be a full stack Django Web Application.",
-    image: 'https://static.djangoproject.com/img/logos/django-logo-negative.png',
-    tags: ['Django', 'Fullstack', 'Upcoming'],
+    title: 'E-Commerce WebApp',
+    description: "This project focuses on Back-End and is a part of a bigger project which will contain many applications like this one",
+    image: 'https://user-images.githubusercontent.com/86239697/185395921-d560fe71-1e26-4548-a223-d656ef56597a.png',
+    tags: ['Django', 'Fullstack'],
     source: 'https://github.com/shivesh-ranjan/Full-stack-E-Commerce',
     visit: 'https://github.com/shivesh-ranjan/Full-stack-E-Commerce',
     id: 0,
