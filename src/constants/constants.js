@@ -45,12 +45,12 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Drug Classification WebApp',
-    description: "This project is WebApp which serves as a front end data input panel for a deployed classiification model underneath it.",
-    image: 'https://user-images.githubusercontent.com/86239697/164969874-d168abbf-ee40-4b11-b3ce-bf9268a2e833.jpeg',
-    tags: ['Streamlit', 'Tensorflow', 'Pyhton'],
-    source: 'https://github.com/shivesh-ranjan/Drug-Classification-WebApp',
-    visit: 'https://github.com/shivesh-ranjan/Drug-Classification-WebApp',
+    title: 'Sentiment Analysis',
+    description: "This is a Natural Language Processing(NLP) project which uses LSTMs to predict sentiments(positive or negative) from IMDB Reviews dataset from tensorflow datasets!",
+    image: 'https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210722215846/sentiment-analysis.jpg',
+    tags: ['NLP', 'Tensorflow', 'Python'],
+    source: 'https://github.com/shivesh-ranjan/Sentiment-Analysis',
+    visit: 'https://github.com/shivesh-ranjan/Sentiment-Analysis',
     id: 5,
   },
 ];
